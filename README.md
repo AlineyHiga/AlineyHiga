@@ -1,6 +1,6 @@
 ### Hi! 👋 , I my name is Aline Yumi Higa
-- 🔭 Working  on BRQ
-- 🌱 Studying: Python & Angular 
+- 🔭 Working on a bank
+- 🌱 Studying: Python, Angular, C#
 - 😄 Pronouns: She/Her
 <div align="center">
   <a href="https://github.com/AlineyHiga">
